@@ -2,8 +2,7 @@ import javax.swing.JOptionPane;
 
 public class Atividade6 {
     public static void main(String[] args) {
-        public static void main(String[] args) {
-        public static void main (String[]args){
+     
             String input = JOptionPane.showInputDialog(null, "Digite um valor: ");
             int num1 = Integer.parseInt(input);
             String input1 = JOptionPane.showInputDialog(null, "Digite um valor: ");
